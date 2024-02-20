@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rabbihossainlhp&label=Profile%20views&color=0e75b6&style=flat" alt="rabbihossainlhp" /> </p>
 
-<div> <a href="https://github.com/rabbihossainlhp" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-</div>
 
 <p align="left"> <a href="https://twitter.com/rabbihossainlhp" target="blank"><img src="https://img.shields.io/twitter/follow/rabbihossainlhp?logo=twitter&style=for-the-badge" alt="rabbihossainlhp" /></a> </p>
 
