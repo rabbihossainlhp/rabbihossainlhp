@@ -11,9 +11,9 @@
 
 - 🔭 I’m currently working on **kivymd App**
 
-- 🌱 I’m currently learning **kivy,kivymd**
+- 🌱 I’m currently learning **JavaScript**
 
-- 👯 I’m looking to collaborate on **kivymd App**
+- 👯 I’m looking to collaborate on **kivymd App,flet**
 
 - 🤝 I’m looking for help with **Python**
 
