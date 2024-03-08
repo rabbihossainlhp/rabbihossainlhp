@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **kivymd App,flet**
 
-- 🤝 I’m looking for help with **Python**
+- 🤝 I’m looking for help with **Python,JavaScript**
 
 - 💬 Ask me about **HTML, CSS, Python, C**
 
