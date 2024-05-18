@@ -9,11 +9,11 @@
 <p align="left"> <a href="https://twitter.com/rabbihossainlhp" target="blank"><img src="https://img.shields.io/twitter/follow/rabbihossainlhp?logo=twitter&style=for-the-badge" alt="rabbihossainlhp" /></a> </p>
 
 
-- 🔭 I’m currently working on **kivymd App**
+- 🔭 I’m currently working on **front-end development**
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👯 I’m looking to collaborate on **kivymd App,flet**
+- 👯 I’m looking to collaborate on **JS and front-end technology**
 
 - 🤝 I’m looking for help with **Python,JavaScript**
 
