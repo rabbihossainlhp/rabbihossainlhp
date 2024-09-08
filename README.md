@@ -15,13 +15,13 @@
 
 - 👯 I’m looking to collaborate on **JS and front-end technology**
 
-- 🤝 I’m looking for help with **Python,JavaScript**
+- 🤝 I’m looking for help with **Java,JavaScript**
 
 - 💬 Ask me about **HTML, CSS, Python, C**
 
 - 📫 How to reach me **rabbihossainlhp@gmail.com**
 
-- ⚡ Fun fact **Yes! I am funny**
+- ⚡ Fun fact **Whattt!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
