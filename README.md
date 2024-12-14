@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👯 I’m looking to collaborate on **JS and front-end technology**
+- 👯 I’m looking to collaborate on **JS and web-dev technology**
 
 - 🤝 I’m looking for help with **Java,JavaScript**
 
