@@ -22,50 +22,52 @@
 
 ---
 
+
 ## 🧠 About Me
 
-<pre style="color: #00FF41; font-weight: bold; font-size: 16px;">
 ```bash
-# SYSTEM INFORMATION
-
-rabbi_hossain@dev_machine:~$ whoami
-Web Developer | Code Architect
-
-rabbi_hossain@dev_machine:~$ cat /etc/developer.conf
-
-[DEVELOPER_PROFILE]
-├── username: "rabbihossainlhp"
-├── location: "Bangladesh 🇧🇩"
-├── status: "ONLINE"
-├── mode: "FULL_STACK_MODE"
-└── experience: "WEB_DEVELOPMENT"
-
-[TECH_ARSENAL]
-├── frontend: ["React", "TypeScript", "TailwindCSS", "Vite"]
-├── backend: ["Node.js", "Express", "EJS", "Django"]
-├── databases: ["MongoDB", "MySQL", "PostgreSQL", "Mongoose"]
-├── languages: ["JavaScript", "Python", "Java", "C"]
-└── deployment: ["Vercel", "Render", "Git", "GitHub", "NPM", "Railway"]
-
-[CURRENT_MISSION]
-├── "Advanced React Patterns"
-├── "Data Structures & Algorithms in Java"
-└── "System Design Mastery"
-
-[EXPERTISE]
-├── primary: ["React", "Node.js", "MongoDB"]
-├── passion: "Building scalable web solutions"
-└── motto: "Code. Create. Deploy. Repeat. 🚀"
-
-rabbi_hossain@dev_machine:~$ echo $DEVELOPER_FACT
-"Debugging code with coffee makes me unstoppable ☕💻"
-
-[SYSTEM_STATUS]
-├── status: READY ✅
-├── connection: ACTIVE 🔗
-└── collaboration: OPEN 🤝
-
-</pre>
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                             SYSTEM INFORMATION                              │
+│══════════════════════════════════════════════════════════════════════════════│
+│                                                                              │
+│  rabbi_hossain@dev_machine:~$ whoami                                        │
+│         Web Developer | Code Architect                                      │
+│                                                                              │
+│  rabbi_hossain@dev_machine:~$ cat /etc/developer.conf                       │
+│                                                                              │
+│  [DEVELOPER_PROFILE]                                                         │
+│  ├── username: "rabbihossainlhp"                                             │
+│  ├── location: "Bangladesh 🇧🇩"                                              │
+│  ├── status: "ONLINE"                                                        │
+│  ├── mode: "FULL_STACK_MODE"                                                 │
+│  └── experience: "WEB_DEVELOPMENT"                                           │
+│                                                                              │
+│  [TECH_ARSENAL]                                                              │
+│  ├── frontend: ["React", "TypeScript", "TailwindCSS", "Vite"]             │
+│  ├── backend: ["Node.js", "Express", "EJS", "Django"]                     │
+│  ├── databases: ["MongoDB", "MySQL", "PostgreSQL", "Mongoose"]            │
+│  ├── languages: ["JavaScript", "Python", "Java", "C"]                      │
+│  └── deployment: ["Vercel", "Render", "Git", "GitHub", "NPM", "Railway"] │
+│                                                                              │
+│  [CURRENT_MISSION]                                                           │
+│  ├── "Advanced React Patterns"                                              │
+│  ├── "Data Structures & Algorithms in Java"                                 │
+│  └── "System Design Mastery"                                                │
+│                                                                              │
+│  [EXPERTISE]                                                                 │
+│  ├── primary: ["React", "Node.js", "MongoDB"]                              │
+│  ├── passion: "Building scalable web solutions"                             │
+│  └── motto: "Code. Create. Deploy. Repeat. 🚀"                              │
+│                                                                              │
+│  rabbi_hossain@dev_machine:~$ echo $DEVELOPER_FACT                          │
+│  "Debugging code with coffee makes me unstoppable ☕💻"                     │
+│                                                                              │
+│  [SYSTEM_STATUS]                                                             │
+│  ├── status: READY ✅                                                       │
+│  ├── connection: ACTIVE 🔗                                                  │
+│  └── collaboration: OPEN 🤝                                                 │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
 
 ---
 
