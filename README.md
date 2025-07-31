@@ -2,7 +2,7 @@
 
 # 🚀 Rabbi Hossain
 
-### `Learn & Contribute`
+### `Web Developer | Code Architect | Self-Taught Learner`
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=800&lines=Web+Developer;React+%7C+Node.js+%7C+Express+%7C+TypeScript;Building+Next-Gen+Web+Solutions;Code+%7C+Create+%7C+Deploy+%7C+Repeat;Turning+Ideas+Into+Reality" alt="Typing SVG" />
 
@@ -24,49 +24,49 @@
 
 ## 🧠 About Me
 
-<pre style="color: #00FF41; font-weight: bold; font-size: 15px;">
-┌─────────────────────────────────────────────────────────────────────┐
-│                         SYSTEM INFORMATION                         │
-│═════════════════════════════════════════════════════════════════════│
-│                                                                     │
-│  rabbi_hossain@dev_machine:~$ whoami                               │
-│         Web Developer | Code Architect                             │
-│                                                                     │
-│  rabbi_hossain@dev_machine:~$ cat /etc/developer.conf              │
-│                                                                     │
-│  [DEVELOPER_PROFILE]                                                │
-│  ├── username: "rabbihossainlhp"                                    │
-│  ├── location: "Bangladesh 🇧🇩"                                     │
-│  ├── status: "ONLINE"                                               │
-│  ├── mode: "FULL_STACK_MODE"                                        │
-│  └── experience: "WEB_DEVELOPMENT"                                  │
-│                                                                     │
-│ [TECH_ARSENAL]                                                      │
-│  ├── frontend: ["React", "TypeScript", "TailwindCSS", "Vite"]    │
-│  ├── backend: ["Node.js", "Express", "EJS", "Django"]              │
-│  ├── databases: ["MongoDB", "MySQL", "PostgreSQL", "Mongoose"]     │
-│  ├── languages: ["JavaScript", "Python", "Java", "C"]             │
-│  └── deployment: ["Vercel", "Render", "Git", "GitHub", "NPM", "Railway"]│
-│                                                                     │
-│  [CURRENT_MISSION]                                                  │
-│  ├── "Advanced React Patterns"                                     │
-│  ├── "Data Structures & Algorithms in Java"                        │
-│  └── "System Design Mastery"                                       │
-│                                                                     │
-│  [EXPERTISE]                                                        │
-│  ├── primary: ["React", "Node.js", "MongoDB"]                      │
-│  ├── passion: "Building scalable web solutions"                    │
-│  └── motto: "Code. Create. Deploy. Repeat. 🚀"                     │
-│                                                                     │
-│  rabbi_hossain@dev_machine:~$ echo $DEVELOPER_FACT                 │
-│  "Debugging code with coffee makes me unstoppable ☕💻"            │
-│                                                                     │
-│  [SYSTEM_STATUS]                                                    │
-│  ├── status: READY ✅                                              │
-│  ├── connection: ACTIVE 🔗                                         │
-│  └── collaboration: OPEN 🤝                                        │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
+<pre style="color: #00FF41; font-weight: bold; font-size: 16px;">
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                             SYSTEM INFORMATION                              │
+│══════════════════════════════════════════════════════════════════════════════│
+│                                                                              │
+│  rabbi_hossain@dev_machine:~$ whoami                                        │
+│         Web Developer | Code Architect                                      │
+│                                                                              │
+│  rabbi_hossain@dev_machine:~$ cat /etc/developer.conf                       │
+│                                                                              │
+│  [DEVELOPER_PROFILE]                                                         │
+│  ├── username: "rabbihossainlhp"                                             │
+│  ├── location: "Bangladesh 🇧🇩"                                              │
+│  ├── status: "ONLINE"                                                        │
+│  ├── mode: "FULL_STACK_MODE"                                                 │
+│  └── experience: "WEB_DEVELOPMENT"                                           │
+│                                                                              │
+│  [TECH_ARSENAL]                                                              │
+│  ├── frontend: ["React", "TypeScript", "TailwindCSS", "Vite"]             │
+│  ├── backend: ["Node.js", "Express", "EJS", "Django"]                     │
+│  ├── databases: ["MongoDB", "MySQL", "PostgreSQL", "Mongoose"]            │
+│  ├── languages: ["JavaScript", "Python", "Java", "C"]                      │
+│  └── deployment: ["Vercel", "Render", "Git", "GitHub", "NPM", "Railway"] │
+│                                                                              │
+│  [CURRENT_MISSION]                                                           │
+│  ├── "Advanced React Patterns"                                              │
+│  ├── "Data Structures & Algorithms in Java"                                 │
+│  └── "System Design Mastery"                                                │
+│                                                                              │
+│  [EXPERTISE]                                                                 │
+│  ├── primary: ["React", "Node.js", "MongoDB"]                              │
+│  ├── passion: "Building scalable web solutions"                             │
+│  └── motto: "Code. Create. Deploy. Repeat. 🚀"                              │
+│                                                                              │
+│  rabbi_hossain@dev_machine:~$ echo $DEVELOPER_FACT                          │
+│  "Debugging code with coffee makes me unstoppable ☕💻"                     │
+│                                                                              │
+│  [SYSTEM_STATUS]                                                             │
+│  ├── status: READY ✅                                                       │
+│  ├── connection: ACTIVE 🔗                                                  │
+│  └── collaboration: OPEN 🤝                                                 │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
 </pre>
 
 ---
@@ -166,15 +166,6 @@
 </div>
 
 ---
-
-<div align="center">
-  ✨ *Thanks for visiting my profile!* ✨  
-  👉 *Feel free to star your favorite repositories!* 👈  
-
-![Visitor Badge](https://profile-counter.glitch.me/rabbihossainlhp/count.svg)
-
-</div>
-
 
 <div align="center">
   ✨ *Thanks for visiting my profile!* ✨  
