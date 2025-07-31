@@ -1,28 +1,177 @@
-<h1 align="center">Hi 👋, I'm Rabbi Hossain</h1>
-<h3 align="center">I'm here to Learn && Contribute</h3>
+<div align="center">
 
-![Add a heading](https://github.com/rabbihossainlhp/rabbihossainlhp/raw/main/-.gif?raw=true)
+# 🚀 Rabbi Hossain
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rabbihossainlhp&label=Profile%20views&color=0e75b6&style=flat" alt="rabbihossainlhp" /> </p>
+### `Web Developer | Code Architect | Self-Taught Learner`
 
-# 💫 About Me:
-🔭 I’m currently working on Web-development<br>🌱 I’m currently learning JavaScript<br>👯 I’m looking to collaborate on JS and web-dev technology<br>🤝 I’m looking for help with Java & DSA<br>📫 How to reach me rabbihossainlhp@gmail.com<br>⚡ Fun fact Whattt!!
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=800&lines=Web+Developer;React+%7C+Node.js+%7C+Express+%7C+TypeScript;Building+Next-Gen+Web+Solutions;Code+%7C+Create+%7C+Deploy+%7C+Repeat;Turning+Ideas+Into+Reality" alt="Typing SVG" />
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=&fontSize=50&fontColor=fff&animation=twinkling" width="100%"/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rabbihossainlhp) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rabbihossainyb) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rabbihossain06) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rabbihossainlhp&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rabbihossainlhp&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rabbihossainlhp&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rabbihossainlhp&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rabbihossainlhp&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=rabbihossainlhp\&label=Profile%20Views\&color=blueviolet\&style=flat-square)](https://github.com/rabbihossainlhp)
+![Years](https://badges.pufler.dev/years/rabbihossainlhp?style=flat-square\&color=blueviolet)
+![Repos](https://badges.pufler.dev/repos/rabbihossainlhp?style=flat-square\&color=blueviolet)
+
+</div>
+
+---
+
+## 🧠 About Me
+
+```diff
++ ┌─────────────────────────────────────────────────────────────────────┐
++ │                         SYSTEM INFORMATION                         │
++ │═════════════════════════════════════════════════════════════════════│
++ │                                                                     │
++ │  rabbi_hossain@dev_machine:~$ whoami                               │
++ │         Web Developer | Code Architect                             │
++ │                                                                     │
++ │  rabbi_hossain@dev_machine:~$ cat /etc/developer.conf              │
++ │                                                                     │
++ │  [DEVELOPER_PROFILE]                                                │
++ │  ├── username: "rabbihossainlhp"                                    │
++ │  ├── location: "Bangladesh 🇧🇩"                                     │
++ │  ├── status: "ONLINE"                                               │
++ │  ├── mode: "FULL_STACK_MODE"                                        │
++ │  └── experience: "WEB_DEVELOPMENT"                                  │
++ │                                                                     │
++ │ [TECH_ARSENAL]                                                      │
++ │  ├── frontend: ["React", "TypeScript", "TailwindCSS", "Vite"]    │
++ │  ├── backend: ["Node.js", "Express", "EJS", "Django"]              │
++ │  ├── databases: ["MongoDB", "MySQL", "PostgreSQL", "Mongoose"]     │
++ │  ├── languages: ["JavaScript", "Python", "Java", "C"]             │
++ │  └── deployment: ["Vercel", "Render", "Git", "GitHub", "NPM", "Railway"]│
++ │                                                                     │
++ │  [CURRENT_MISSION]                                                  │
++ │  ├── "Advanced React Patterns"                                     │
++ │  ├── "Data Structures & Algorithms in Java"                        │
++ │  └── "System Design Mastery"                                       │
++ │                                                                     │
++ │  [EXPERTISE]                                                        │
++ │  ├── primary: ["React", "Node.js", "MongoDB"]                      │
++ │  ├── passion: "Building scalable web solutions"                    │
++ │  └── motto: "Code. Create. Deploy. Repeat. 🚀"                     │
++ │                                                                     │
++ │  rabbi_hossain@dev_machine:~$ echo $DEVELOPER_FACT                 │
++ │  "Debugging code with coffee makes me unstoppable ☕💻"            │
++ │                                                                     │
++ │  [SYSTEM_STATUS]                                                    │
++ │  ├── status: READY ✅                                              │
++ │  ├── connection: ACTIVE 🔗                                         │
++ │  └── collaboration: OPEN 🤝                                        │
++ │                                                                     │
++ └─────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 🚀 Tech Stack
+
+### 🖥️ Frontend Development
+
+> **Modern frontend technologies I use to build responsive, interactive UIs**
+
+`TypeScript`   `JavaScript`   `React`   `TailwindCSS`   `Vite`   `EJS`
+
+### ⚙️ Backend Systems
+
+> **Technologies powering server-side logic and scalable infrastructure**
+
+`Node.js`   `Express`   `Django`
+
+### 💾 Database Management
+
+> **Efficient and reliable database solutions**
+
+`MongoDB`   `Mongoose`   `MySQL`   `PostgreSQL`
+
+### 🔤 Programming Languages
+
+> **Core languages used across the stack**
+
+`C`   `Java`   `Python`
+
+### 🛠 Deployment & Tools
+
+> **Deployment, version control, and workflow essentials**
+
+`Git`   `GitHub`   `NPM`   `Render`   `Vercel`   `Railway`
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rabbihossainlhp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabbihossainlhp&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rabbihossainlhp&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rabbihossainlhp&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae" alt="Activity Graph" />
+</div>
+
+## 📊 Advanced Dev Charts
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rabbihossainlhp&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rabbihossainlhp&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rabbihossainlhp&theme=tokyonight&utcOffset=6" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rabbihossainlhp&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rabbihossainlhp&theme=tokyonight" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rabbihossainlhp&theme=tokyonight&no-frame=true&row=1&column=6" />
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+  <a href="https://linkedin.com/in/rabbihossainyb">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/rabbihossain06">
+    <img src="https://img.shields.io/badge/X-1DA1F2?style=flat-square&logo=x&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/rabbihossainlhp">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:rabbihossainlhp@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+---
+
+## 💬 Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</div>
+
+---
+
+<div align="center">
+  ✨ *Thanks for visiting my profile!* ✨  
+  👉 *Feel free to star your favorite repositories!* 👈  
+
+![Visitor Badge](https://profile-counter.glitch.me/rabbihossainlhp/count.svg)
+
+</div>
+
