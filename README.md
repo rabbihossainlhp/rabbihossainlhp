@@ -1,179 +1,106 @@
 <div align="center">
 
-# 🚀 Rabbi Hossain
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0B132B,50:1C2541,100:3A506B&section=header&text=Rabbi%20Hossain&fontSize=48&fontColor=F8FAFC&animation=fadeIn&fontAlignY=36" width="100%" alt="Header"/>
 
-### `Web Developer | Code Architect | Self-Taught Learner`
+## Full-Stack Web Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=800&lines=Web+Developer;React+%7C+Node.js+%7C+Express+%7C+TypeScript;Building+Next-Gen+Web+Solutions;Code+%7C+Create+%7C+Deploy+%7C+Repeat;Turning+Ideas+Into+Reality" alt="Typing SVG" />
+### Building production-ready web products with clean architecture, performance, and strong UX.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=&fontSize=50&fontColor=fff&animation=twinkling" width="100%"/>
+<p>
+<a href="https://github.com/rabbihossainlhp"><img src="https://img.shields.io/badge/GitHub-Portfolio-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Portfolio"/></a>
+<a href="https://linkedin.com/in/rabbihossainyb"><img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:rabbihossainlhp@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20Talk-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=rabbihossainlhp&label=Profile%20Views&color=1d4ed8&style=flat)
+![Followers](https://img.shields.io/github/followers/rabbihossainlhp?style=flat&color=0f766e)
+![Stars](https://img.shields.io/github/stars/rabbihossainlhp?style=flat&color=0369a1)
+
+</div>
+
+## Executive Summary
+
+Full-stack engineer with a product mindset, focused on delivering web applications that are fast, reliable, and built for long-term evolution.
+I work across frontend and backend systems to turn business requirements into production-ready software with clear architecture and measurable user value.
+
+I bring three consistent strengths to every build:
+
+- Product-aware engineering: translating goals into practical technical decisions.
+- Clean scalable architecture: maintainable code, modular structure, and strong API boundaries.
+- Delivery discipline: performance-focused implementation, testing-conscious development, and dependable execution.
+
+| Area | Details |
+| --- | --- |
+| Role | Full-Stack Engineer |
+| Focus | Product-grade web applications |
+| Core Expertise | React, TypeScript, Node.js, Express, database-backed systems |
+| Engineering Priorities | Scalability, maintainability, performance, DX |
+| Current Growth | Advanced React patterns, system design, DSA |
+| Collaboration | Open to impactful product and engineering work |
+
+## Technical Expertise
+
+**Frontend Engineering**
+
+`React` `TypeScript` `JavaScript` `Tailwind CSS` `Vite` `EJS`
+
+**Backend Engineering**
+
+`Node.js` `Express` `Django`
+
+**Database Systems**
+
+`MongoDB` `PostgreSQL` `MySQL` `Mongoose`
+
+**Programming Languages**
+
+`TypeScript` `JavaScript` `Python` `Java` `C`
+
+**Cloud, Deployment, and Tooling**
+
+`Git` `GitHub` `NPM` `Vercel` `Render` `Railway`
+
+## Current Engineering Priorities
+
+- Designing reusable frontend systems with strong type safety.
+- Building clean and scalable backend services for production.
+- Improving system design decisions for long-term maintainability.
+
+## GitHub Analytics
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rabbihossainlhp&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabbihossainlhp&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rabbihossainlhp&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rabbihossainlhp&theme=github-compact&hide_border=true" alt="Activity Graph"/>
+</div>
+
+## Professional Profiles
+
+<div align="center">
+  <a href="https://linkedin.com/in/rabbihossainyb"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://x.com/rabbihossain06"><img src="https://img.shields.io/badge/X-111827?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://instagram.com/rabbihossainlhp"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="mailto:rabbihossainlhp@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </div>
 
 ---
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=rabbihossainlhp\&label=Profile%20Views\&color=blueviolet\&style=flat-square)](https://github.com/rabbihossainlhp)
-![Years](https://badges.pufler.dev/years/rabbihossainlhp?style=flat-square\&color=blueviolet)
-![Repos](https://badges.pufler.dev/repos/rabbihossainlhp?style=flat-square\&color=blueviolet)
-
-</div>
-
----
-
-
-## 🧠 About Me
-
-```bash
-                ┌──────────────────────────────────────────────────────────────────────────────┐
-                │                             SYSTEM INFORMATION                               │
-                │══════════════════════════════════════════════════════════════════════════════│
-                │                                                                              │
-                │  rabbi_hossain@dev_machine:~$ whoami                                         │
-                │         Web Developer | Code Architect                                       │
-                │                                                                              │
-                │  rabbi_hossain@dev_machine:~$ cat /etc/developer.conf                        │
-                │                                                                              │
-                │  [DEVELOPER_PROFILE]                                                         │
-                │  ├── username: "rabbihossainlhp"                                             │
-                │  ├── location: "Bangladesh 🇧🇩"                                               │
-                │  ├── status: "ONLINE"                                                        │
-                │  ├── mode: "FULL_STACK_MODE"                                                 │
-                │  └── experience: "WEB_DEVELOPMENT"                                           │
-                │                                                                              │
-                │  [TECH_ARSENAL]                                                              │
-                │  ├── frontend: ["React", "TypeScript", "TailwindCSS", "Vite"]                │
-                │  ├── backend: ["Node.js", "Express", "EJS", "Django"]                        │
-                │  ├── databases: ["MongoDB", "MySQL", "PostgreSQL", "Mongoose"]               │
-                │  ├── languages: ["JavaScript", "Python", "Java", "C"]                        │
-                │  └── deployment: ["Vercel", "Render", "Git", "GitHub", "NPM", "Railway"]     │
-                │                                                                              │
-                │  [CURRENT_MISSION]                                                           │
-                │  ├── "Advanced React Patterns"                                               │
-                │  ├── "Data Structures & Algorithms in Java"                                  │
-                │  └── "System Design Mastery"                                                 │
-                │                                                                              │
-                │  [EXPERTISE]                                                                 │
-                │  ├── primary: ["React", "Node.js", "MongoDB"]                                │
-                │  ├── passion: "Building scalable web solutions"                              │
-                │  └── motto: "Code. Create. Deploy. Repeat. 🚀"                               │
-                │                                                                              │
-                │  rabbi_hossain@dev_machine:~$ echo $DEVELOPER_FACT                           │
-                │  "Debugging code with coffee makes me unstoppable ☕💻"                       │
-                │                                                                              │
-                │  [SYSTEM_STATUS]                                                             │
-                │  ├── status: READY ✅                                                        │
-                │  ├── connection: ACTIVE 🔗                                                   │
-                │  └── collaboration: OPEN 🤝                                                  │
-                │                                                                              │
-                └──────────────────────────────────────────────────────────────────────────────┘
-
-
-```
----
-
-## 🚀 Tech Stack
-
-### 🖥️ Frontend Development
-
-> **Modern frontend technologies I use to build responsive, interactive UIs**
-
-`TypeScript`   `JavaScript`   `React`   `TailwindCSS`   `Vite`   `EJS`
-
-### ⚙️ Backend Systems
-
-> **Technologies powering server-side logic and scalable infrastructure**
-
-`Node.js`   `Express`   `Django`
-
-### 💾 Database Management
-
-> **Efficient and reliable database solutions**
-
-`MongoDB`   `Mongoose`   `MySQL`   `PostgreSQL`
-
-### 🔤 Programming Languages
-
-> **Core languages used across the stack**
-
-`C`   `Java`   `Python`
-
-### 🛠 Deployment & Tools
-
-> **Deployment, version control, and workflow essentials**
-
-`Git`   `GitHub`   `NPM`   `Render`   `Vercel`   `Railway`
-
----
-
-## 📈 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rabbihossainlhp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabbihossainlhp&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rabbihossainlhp&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rabbihossainlhp&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae" alt="Activity Graph" />
-</div>
-
-## 📊 Advanced Dev Charts
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rabbihossainlhp&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rabbihossainlhp&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rabbihossainlhp&theme=tokyonight&utcOffset=6" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rabbihossainlhp&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rabbihossainlhp&theme=tokyonight" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rabbihossainlhp&theme=tokyonight&no-frame=true&row=1&column=6" />
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-  <a href="https://linkedin.com/in/rabbihossainyb">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/rabbihossain06">
-    <img src="https://img.shields.io/badge/X-1DA1F2?style=flat-square&logo=x&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/rabbihossainlhp">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:rabbihossainlhp@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</div>
-
----
-
-## 💬 Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-</div>
-
----
-
-<div align="center">
-  ✨ *Thanks for visiting my profile!* ✨  
-  👉 *Feel free to star your favorite repositories!* 👈  
-
-![Visitor Badge](https://profile-counter.glitch.me/rabbihossainlhp/count.svg)
+<sub>Focused on quality engineering, product thinking, and long-term impact.</sub>
 
 </div>
 
