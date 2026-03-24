@@ -72,6 +72,28 @@ I bring three consistent strengths to every build:
 - Building clean and scalable backend services for production.
 - Improving system design decisions for long-term maintainability.
 
+## Signature Engineering System
+
+```mermaid
+flowchart LR
+  A[Understand User Problem] --> B[Design for Long-Term Scale]
+  B --> C[Build in Small Stable Releases]
+  C --> D[Measure Performance and Reliability]
+  D --> E[Collect Product Feedback]
+  E --> A
+```
+
+<details>
+  <summary><strong>Execution Playbook</strong> (how I turn requirements into production outcomes)</summary>
+
+- Scope first: convert business goals into measurable software outcomes.
+- Design second: choose patterns that reduce complexity over time.
+- Ship fast: release in small increments with clear rollback safety.
+- Verify always: monitor speed, errors, and user behavior after release.
+- Improve continuously: use feedback loops, not one-time assumptions.
+
+</details>
+
 ## GitHub Analytics
 
 <div align="center">
@@ -80,7 +102,7 @@ I bring three consistent strengths to every build:
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rabbihossainlhp&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=rabbihossainlhp&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
