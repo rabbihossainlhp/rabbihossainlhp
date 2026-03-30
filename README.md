@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0B132B,50:1C2541,100:3A506B&section=header&text=Rabbi%20Hossain&fontSize=48&fontColor=F8FAFC&animation=fadeIn&fontAlignY=36" width="100%" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0B132B,50:1C2541,100:3A506B&text=Rabbi%20Hossain&fontSize=60&fontColor=F8FAFC&animation=fadeIn&fontAlignY=45" width="100%" alt="Header"/>
 
 ## Full-Stack Web Developer
 
