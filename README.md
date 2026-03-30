@@ -1,26 +1,27 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=circle&height=300&color=0f172a&text=Rabbi%20Hossain&fontSize=60&fontColor=38bdf8&animation=fadeIn&fontAlignY=50" width="100%" alt="Header Dashboard"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0f172a&text=Rabbi%20Hossain&fontSize=80&fontColor=38bdf8&animation=fadeIn&fontAlignY=50" width="100%" alt="Header Dashboard"/>
 
 # 🖥️ Full-Stack Web Developer
 > Transforming complex problems into minimalist digital solutions.
 
 ---
 
-## 🔘 Developer Skill Distribution
-*Circular visualization of core competencies*
+## 📊 Developer Status Dashboard
 
-<br/>
-
-<table border="0">
+<table>
   <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabbihossainlhp&layout=donut&theme=tokyonight&hide_border=true&hide_title=true" width="350px" alt="Language Pie Chart"/>
-      <br/><b>Core Stack Balance</b>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Expertise-Frontend-38bdf8?style=for-the-badge&logo=react" /><br/>
+      <sub>React • Next.js • Tailwind</sub>
     </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=rabbihossainlhp&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&count_private=true" width="350px" alt="Stats Chart"/>
-      <br/><b>Developer Contributions</b>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Logic-Backend-0369a1?style=for-the-badge&logo=node.js" /><br/>
+      <sub>Node.js • Express • Django</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Storage-Database-0f172a?style=for-the-badge&logo=postgresql" /><br/>
+      <sub>PostgreSQL • MongoDB • SQL</sub>
     </td>
   </tr>
 </table>
@@ -50,7 +51,14 @@
 
 ---
 
-## 📈 Activity Pulse
+## 📈 Platform Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rabbihossainlhp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabbihossainlhp&layout=compact&theme=tokyonight&hide_border=true" alt="Langs"/>
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rabbihossainlhp&theme=dracula&hide_border=true&area=true" width="100%" alt="Activity Graph"/>
