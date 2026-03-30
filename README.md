@@ -41,50 +41,67 @@
 
 ---
 
-## 🛠️ Technical Toolkit
 
-### **Primary Stack**
-`React` `Next.js` `TypeScript` `JavaScript` `Tailwind CSS` `Node.js` `Express` `PostgreSQL` `MongoDB`
+## 🛰️ Developer Skill Orbit
+*A circular breakdown of my core technical DNA*
 
-### **Developer Environment**
-`Ubuntu Linux` `Git` `Vite` `Postman` `Vercel` `Railway`
+<table border="0">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabbihossainlhp&layout=donut&theme=tokyonight&hide_border=true&hide_title=true&langs_count=8" width="400px" />
+      <br />
+      <b>Tech Stack Distribution</b>
+    </td>
+    <td align="center">
+       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rabbihossainlhp&theme=tokyonight" width="400px" />
+       <br />
+       <b>Contribution Velocity</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📈 Platform Analytics
+## 🛠️ THE CORE STACK
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-React-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/-Next.js-0f172a?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/-Node.js-0f172a?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/-Tailwind-0f172a?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4" />
+</p>
+
+---
+
+## 📊 VITAL DEVELOPER METRICS
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rabbihossainlhp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabbihossainlhp&layout=compact&theme=tokyonight&hide_border=true" alt="Langs"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rabbihossainlhp&theme=dracula&hide_border=true&area=true" width="100%" alt="Activity Graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rabbihossainlhp&show_icons=true&theme=tokyonight&rank_icon=github&display_format=white&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=rabbihossainlhp&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 <br />
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=rabbihossainlhp&theme=tokyonight&hide_border=true" width="100%" alt="Streak"/>
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rabbihossainlhp&theme=tokyonight&hide_border=true&area=true" width="100%" />
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 CONNECT & COLLABORATE
 
-<div align="center">
-
-<a href="https://github.com/rabbihossainlhp"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/lhphossainrabbi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<p align="center">
+<a href="https://linkedin.com/in/lhphossainrabbi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://x.com/rabbihossain06"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="mailto:rabbihossainlhp@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:rabbihossainlhp@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 <br />
 
-**"Clean code is not a goal, it's a standard."**
-<br />
-<sub>Full-Stack Developer focused on performance and scalable web architecture.</sub>
+<div align="center">
+  <sub><b>"Turning complex code into elegant user experiences."</b></sub>
+  <br />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=30&color=38bdf8&opacity=0.1" width="100%" />
+</div>
 
 </div>
