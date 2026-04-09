@@ -2,12 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0f172a&text=Rabbi%20Hossain&fontSize=80&fontColor=38bdf8&animation=fadeIn&fontAlignY=50" width="100%" alt="Header Dashboard"/>
 
-# 🖥️ Full-Stack Web Developer
+# 🖥️ Full-Stack Web Developer.
 > Transforming complex problems into minimalist digital solutions.
 
 ---
 
-## 📊 Developer Status Dashboard
+## 📊 Developer Status Dashboard.
 
 <table>
   <tr>
@@ -28,7 +28,7 @@
 
 ---
 
-## ⚙️ Developer Workflow
+## ⚙️ Developer Workflow.
 *My systematic approach to building production-ready web products.*
 
 <p align="center">
@@ -42,7 +42,7 @@
 ---
 
 
-## 🛰️ Developer Skill Orbit
+## 🛰️ Developer Skill Orbit.
 *A circular breakdown of my core technical DNA*
 
 <table border="0">
