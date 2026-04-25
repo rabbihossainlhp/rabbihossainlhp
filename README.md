@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0f172a&text=غلام%20ربي&fontSize=80&fontColor=38bdf8&animation=slideInDown&fontAlignY=50" width="100%" alt="Header Dashboard"/>
 
-# 🖥️ Full-Stack Web Developer
+# 🖥️ Full-Stack Web Developer.
 
 > *Transforming complex problems into minimalist digital solutions.*
 
