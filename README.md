@@ -8,7 +8,7 @@
 
 ---
 
-## 📊 Developer Status Dashboard.
+## 📊 Developer Status Dashboard
 
 <table>
   <tr>
